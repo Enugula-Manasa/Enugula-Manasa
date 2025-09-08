@@ -25,7 +25,7 @@ Manages student records with CRUD operations using Java & SQL.
 ---
 
 ## 🔹 Connect with me
-- 📧 Email: your.email@example.com  
+- 📧 Email:enugulamanasa6@gmail.com 
 - 🔗 LinkedIn:  
 - 💻 GitHub: [github.com/Enugula-Manasa](https://github.com/Enugula-Manasa)
 
