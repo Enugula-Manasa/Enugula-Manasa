@@ -17,10 +17,10 @@
 
 ## 🔹 Projects
 📚 [Library Management System](https://github.com/Enugula-Manasa/Library-Management-System)  
-Backend system to manage books & students using Spring Boot + H2. Supports CRUD APIs.  
+Backend application to manage library books and users. Features include CRUD operations, transactions, and sorting. 
 
 🎓 [Student Management System](https://github.com/Enugula-Manasa/Student-Management-System)  
-Manages student records with CRUD operations using Java & SQL.  
+Backend system for managing student records, courses, and grades. Includes sorting and CRUD operations.  
 
 ---
 
